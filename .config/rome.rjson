@@ -1,0 +1,8 @@
+// For configuration documentation see http://romefrontend.dev/#project-configuration
+name: "sample-project"
+lint: {
+	ignore: [
+		".cache"
+]
+}
+root: true
